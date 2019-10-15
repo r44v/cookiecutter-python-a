@@ -1,4 +1,6 @@
 {
-  "application_name": "Your Application",
-  "package_name": "yourapplication"
+  "project_name": "Basic Application",
+  "project_slug": "{{cookiecutter.project_name.lower().replace(' ', '_').replace('-', '_')}}",
+  "author_name": "r44v",
+  "description": "{{cookiecutter.project_name}} is a Python CLI application generated from https://github.com/r44v/cookiecutter-python-a"
 }
