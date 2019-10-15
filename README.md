@@ -1,8 +1,5 @@
 # Cookiecutter python A
 
-
-
-
 ## inpirations
 
 - [candidtim](https://github.com/candidtim/cookiecutter-flask-minimal)
